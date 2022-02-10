@@ -1,7 +1,7 @@
 @font-face{
     font-family: '华文行楷';
     font-display: swap;
-    src: url('https://cloud.rainafter.cn/img/%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7.ttf') format("truetype");
+    src: url(https://cloud.rainafter.cn/img/%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7.ttf) format("truetype");
 }
 
 /*body {
