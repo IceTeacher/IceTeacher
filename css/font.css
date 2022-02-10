@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'STXINGKA';
+    font-display: swap;
+    src: url('../font/STXINGKA.ttf') format("truetype");
+}
+
+body {
+    font-family: 'STXINGKA';
+}
