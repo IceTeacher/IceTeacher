@@ -1,9 +1,9 @@
 @font-face{
-    font-family: 'STXINGKA';
+    font-family: '华文行楷';
     font-display: swap;
-    src: url('../font/STXINGKA.ttf') format("truetype");
+    src: url('../font/华文行楷.ttf') format("truetype");
 }
 
 body {
-    font-family: 'STXINGKA';
+    font-family: '华文行楷';
 }
